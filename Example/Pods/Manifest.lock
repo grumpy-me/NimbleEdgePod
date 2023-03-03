@@ -1,0 +1,16 @@
+PODS:
+  - NimbleEdgePod (0.1.0)
+
+DEPENDENCIES:
+  - NimbleEdgePod (from `../`)
+
+EXTERNAL SOURCES:
+  NimbleEdgePod:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NimbleEdgePod: ec34eb2c2b63f52111144e394163f702ba5ba3bd
+
+PODFILE CHECKSUM: dff14c6d8bfd904b3175306e8d7c0d49187fe269
+
+COCOAPODS: 1.11.3
